@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/vladbugaj/projects/NewProject/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/vladbugaj/projects/NewProject/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/vladbugaj/projects/NewProject/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/vladbugaj/projects/NewProject/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/vladbugaj/projects/NewProject/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/vladbugaj/projects/NewProject/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/vladbugaj/projects/NewProject/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/vladbugaj/projects/NewProject/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/vladbugaj/projects/NewProject/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

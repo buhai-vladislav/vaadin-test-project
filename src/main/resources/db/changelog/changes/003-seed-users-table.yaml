@@ -1,0 +1,10 @@
+databaseChangeLog:
+  - changeSet:
+      id: 002-seed-users
+      author: vlad.buhai
+      changes:
+        - sqlFile:
+            path: ../sql/001-seed-users.sql
+            relativeToChangelogFile: true
+            splitStatements: true
+            stripComments: false
