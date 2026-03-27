@@ -19,6 +19,7 @@ A small full-stack Kotlin application built with Spring Boot, Vaadin, PostgreSQL
 - Search by name and email
 - Sorting by name, email, created date, updated date
 - Admin CRUD for users
+- User action logging
 - Automatic database schema migration
 - Automatic seeding with 500 test users
 
@@ -37,4 +38,4 @@ A small full-stack Kotlin application built with Spring Boot, Vaadin, PostgreSQL
 Run the whole application with:
 
 ```bash
-docker-compose up --build
+make up
